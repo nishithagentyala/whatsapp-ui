@@ -1,7 +1,7 @@
 import React from "react";
 import { BsChatRightTextFill } from "react-icons/bs";
 import "./Chatlist.css";
-import Messages from "./Messages";
+
 function Chatlist() {
   const selectContact = () => {
     document.querySelector(".layout").style.display = "none";
@@ -10,7 +10,6 @@ function Chatlist() {
   };
   return (
     <div className="chatlists">
-      <Messages />
       <button className="chaticon" onClick={selectContact}>
         <BsChatRightTextFill />
       </button>

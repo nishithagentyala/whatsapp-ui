@@ -3,12 +3,12 @@ import { AiFillCamera } from "react-icons/ai";
 import { BiSearchAlt2 } from "react-icons/bi";
 import { BsThreeDotsVertical } from "react-icons/bs";
 import { AiOutlineArrowLeft } from "react-icons/ai";
-import ChatSettings from "./settings/ChatSettings";
-import StatusSettings from "./settings/StatusSettings";
+import ChatSettings from "./ChatSettings";
+import StatusSettings from "./StatusSettings";
 import "./Layout.css";
 import "./FirstLayout.css";
 import { useState } from "react";
-import CallSettings from "./settings/CallSettings";
+import CallSettings from "./CallSettings";
 const Layout = () => {
   const [isChatActive, setisChatActive] = useState(true);
   const [isStatusActive, setisStatusActive] = useState(false);
