@@ -1,0 +1,64 @@
+.settingsOfAll {
+  display: none;
+}
+.header {
+  display: flex;
+  background-color: rgb(17, 114, 53);
+  padding: 20px;
+  color: white;
+  font-weight: bold;
+}
+.header header {
+  margin-left: 40px;
+  font-size: 18px;
+}
+.user {
+  display: flex;
+  border-bottom: 1px solid rgb(207, 203, 203);
+}
+.pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  padding: 8px;
+  margin: 5px;
+}
+.userdetails {
+  text-align: center;
+  margin: 50px;
+  font-size: 30px;
+}
+.about {
+  padding: 15px;
+  float: left;
+}
+.list {
+  display: flex;
+  margin: 20px;
+  font-size: 20px;
+  padding-left: 50px;
+  cursor: pointer;
+}
+.list:active {
+  background-color: rgb(202, 189, 189);
+}
+.icon {
+  color: gray;
+  margin: 15px;
+  font-size: 25px;
+}
+.list header {
+  margin-left: 40px;
+  padding: 5px;
+}
+.list p {
+  color: gray;
+  margin-left: 40px;
+}
+p {
+  text-align: center;
+}
+p span {
+  font-weight: bold;
+  padding: 20px;
+}

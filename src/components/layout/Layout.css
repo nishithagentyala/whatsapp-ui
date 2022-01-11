@@ -1,0 +1,42 @@
+.layout {
+  background-color: rgb(29, 141, 70);
+  height: 25%;
+}
+
+.second {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+.activelist {
+  border-bottom: 4px solid white;
+  width: 100px;
+  text-align: center;
+}
+#chats,
+#status,
+#calls {
+  font-weight: bold;
+  cursor: pointer;
+  color: white;
+}
+
+.searchlist {
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  display: none;
+  margin-left: 30px;
+}
+.arrow {
+  color: gray;
+  cursor: pointer;
+}
+.searchlist input {
+  width: 100%;
+  height: 70px;
+  border: none;
+  outline: none;
+  padding: 20px;
+}

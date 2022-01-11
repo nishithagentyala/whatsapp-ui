@@ -1,0 +1,49 @@
+#settingsChat {
+  width: 200px;
+  height: 235px;
+  background-color: white;
+  color: black;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  border: 1px solid rgba(182, 135, 135, 0.2);
+  display: none;
+}
+.settingsClist {
+  padding: 10px;
+  padding-left: 20px;
+  cursor: pointer;
+}
+.settingsClist:active {
+  background-color: rgba(182, 135, 135, 0.2);
+}
+
+.settingsSlist {
+  padding: 15px;
+  cursor: pointer;
+}
+.settingsSlist:active {
+  background-color: rgba(182, 135, 135, 0.2);
+}
+.settingsStatus {
+  width: 200px;
+  height: 100px;
+  background-color: white;
+  color: black;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  display: none;
+}
+.callsettings {
+  width: 200px;
+  height: 40px;
+  padding: 10px;
+  background-color: white;
+  color: black;
+  position: absolute;
+  right: 0;
+  top: 10;
+  margin: 15px;
+  display: none;
+}

@@ -1,0 +1,14 @@
+.chatlists {
+  display: none;
+}
+.chaticon {
+  border-radius: 50%;
+  background-color: rgb(10, 77, 10);
+  height: 50px;
+  width: 50px;
+  float: right;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 50px;
+}
