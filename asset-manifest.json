@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/whatsapp-ui/static/css/main.93381d50.css",
+    "main.js": "/whatsapp-ui/static/js/main.9a4f6f9b.js",
+    "static/media/cherry.jpeg": "/whatsapp-ui/static/media/cherry.1141b2913a4f3268035e.jpeg",
+    "static/media/rk.jpeg": "/whatsapp-ui/static/media/rk.454d6290f3b32e14f78c.jpeg",
+    "static/media/pallavi.jpeg": "/whatsapp-ui/static/media/pallavi.f3cca88bbfadaeba00c1.jpeg",
+    "static/media/gunny.jpeg": "/whatsapp-ui/static/media/gunny.2a58b47a01407d6b0ee5.jpeg",
+    "static/media/pooja.jpeg": "/whatsapp-ui/static/media/pooja.dff17fad650cf9c57ee6.jpeg",
+    "static/media/akka.jpeg": "/whatsapp-ui/static/media/akka.196c7b8eeb1620d5fff0.jpeg",
+    "static/media/nishu.jpeg": "/whatsapp-ui/static/media/nishu.d59317ae68e9a23f5b29.jpeg",
+    "index.html": "/whatsapp-ui/index.html",
+    "main.93381d50.css.map": "/whatsapp-ui/static/css/main.93381d50.css.map",
+    "main.9a4f6f9b.js.map": "/whatsapp-ui/static/js/main.9a4f6f9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93381d50.css",
+    "static/js/main.9a4f6f9b.js"
+  ]
+}
